@@ -1,0 +1,1700 @@
+Run graph execution time: 15660.53027ms, FPS=0.06385
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x400102f010
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0x4c91b0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0x4e9ec0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0x577570
+Run graph execution time: 15632.37695ms, FPS=0.06397
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15437.53516ms, FPS=0.06478
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15746.30469ms, FPS=0.06351
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15811.39844ms, FPS=0.06325
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15542.55273ms, FPS=0.06434
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15568.87598ms, FPS=0.06423
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15626.41113ms, FPS=0.06399
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15478.52051ms, FPS=0.06461
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15829.28320ms, FPS=0.06317
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15416.29199ms, FPS=0.06487
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15573.09766ms, FPS=0.06421
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15603.63086ms, FPS=0.06409
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15517.00586ms, FPS=0.06445
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15577.37109ms, FPS=0.06420
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15661.32031ms, FPS=0.06385
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15361.45996ms, FPS=0.06510
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15624.22266ms, FPS=0.06400
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15482.39746ms, FPS=0.06459
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15509.23535ms, FPS=0.06448
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15279.78613ms, FPS=0.06545
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15430.96094ms, FPS=0.06480
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15556.14551ms, FPS=0.06428
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15493.64160ms, FPS=0.06454
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15496.13965ms, FPS=0.06453
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15485.22949ms, FPS=0.06458
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15370.24121ms, FPS=0.06506
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15556.35254ms, FPS=0.06428
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15504.71973ms, FPS=0.06450
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15330.52637ms, FPS=0.06523
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15784.51367ms, FPS=0.06335
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15429.31738ms, FPS=0.06481
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15393.82617ms, FPS=0.06496
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15663.31348ms, FPS=0.06384
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15593.31445ms, FPS=0.06413
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15793.24219ms, FPS=0.06332
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15407.90723ms, FPS=0.06490
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15346.93359ms, FPS=0.06516
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15557.73730ms, FPS=0.06428
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15565.23633ms, FPS=0.06425
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15429.93945ms, FPS=0.06481
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 30644.84961ms, FPS=0.03263
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15560.26172ms, FPS=0.06427
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15676.57812ms, FPS=0.06379
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15609.75684ms, FPS=0.06406
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15575.45801ms, FPS=0.06420
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15558.43066ms, FPS=0.06427
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15697.22559ms, FPS=0.06371
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15448.99609ms, FPS=0.06473
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15639.60449ms, FPS=0.06394
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15481.57129ms, FPS=0.06459
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15419.16699ms, FPS=0.06485
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15831.81152ms, FPS=0.06316
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 17703.10156ms, FPS=0.05649
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 23979.24219ms, FPS=0.04170
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15921.38672ms, FPS=0.06281
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15773.37793ms, FPS=0.06340
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15642.26074ms, FPS=0.06393
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15552.35547ms, FPS=0.06430
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15725.71973ms, FPS=0.06359
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15705.00586ms, FPS=0.06367
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15725.47949ms, FPS=0.06359
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15638.17773ms, FPS=0.06395
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15543.01953ms, FPS=0.06434
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15718.42285ms, FPS=0.06362
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15912.75977ms, FPS=0.06284
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15482.18945ms, FPS=0.06459
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15607.01758ms, FPS=0.06407
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15690.96582ms, FPS=0.06373
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15521.04492ms, FPS=0.06443
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15554.27930ms, FPS=0.06429
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15579.60547ms, FPS=0.06419
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15327.26953ms, FPS=0.06524
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15509.71777ms, FPS=0.06448
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15489.51855ms, FPS=0.06456
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15577.15430ms, FPS=0.06420
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15763.20801ms, FPS=0.06344
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15480.13770ms, FPS=0.06460
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15741.63477ms, FPS=0.06353
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15640.96289ms, FPS=0.06393
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15818.79980ms, FPS=0.06322
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15855.18359ms, FPS=0.06307
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15642.06055ms, FPS=0.06393
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15731.16699ms, FPS=0.06357
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15678.87402ms, FPS=0.06378
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15653.93652ms, FPS=0.06388
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15635.20410ms, FPS=0.06396
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15520.05469ms, FPS=0.06443
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15804.71387ms, FPS=0.06327
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15731.71387ms, FPS=0.06357
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15667.27539ms, FPS=0.06383
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15545.18164ms, FPS=0.06433
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15858.65918ms, FPS=0.06306
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15520.75586ms, FPS=0.06443
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15554.20215ms, FPS=0.06429
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15785.42383ms, FPS=0.06335
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15453.25098ms, FPS=0.06471
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15669.51172ms, FPS=0.06382
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15048.76270ms, FPS=0.06645
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590
+Run graph execution time: 15523.16406ms, FPS=0.06442
+
+=== tensor info ===
+shape: 1 3 640 640 
+data pointer: 0x9471b0
+
+=== tensor info ===
+shape: 1 16800 4 
+data pointer: 0xbd11d0
+
+=== tensor info ===
+shape: 1 16800 2 
+data pointer: 0xbf1ee0
+
+=== tensor info ===
+shape: 1 16800 10 
+data pointer: 0xc7f590

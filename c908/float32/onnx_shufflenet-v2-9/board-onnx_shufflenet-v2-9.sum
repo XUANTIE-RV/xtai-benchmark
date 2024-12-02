@@ -1,0 +1,950 @@
+Run graph execution time: 1901.59729ms, FPS=0.52587
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 8.839858
+The min_value of output: -6.637656
+The mean_value of output: -1.171490
+The std_value of output: 4.032701
+ ============ top5: ===========
+692: 8.839858
+921: 8.593333
+626: 7.845942
+771: 7.336388
+893: 6.881861
+Run graph execution time: 1903.60120ms, FPS=0.52532
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 10.419554
+The min_value of output: -6.359484
+The mean_value of output: 0.073187
+The std_value of output: 4.983965
+ ============ top5: ===========
+478: 10.419554
+675: 10.248409
+660: 8.833939
+561: 8.546070
+864: 8.280453
+Run graph execution time: 1902.00916ms, FPS=0.52576
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 14.214080
+The min_value of output: -5.929737
+The mean_value of output: -0.281619
+The std_value of output: 5.581233
+ ============ top5: ===========
+872: 14.214080
+517: 12.206123
+536: 9.697392
+544: 9.299492
+469: 9.162617
+Run graph execution time: 1900.51855ms, FPS=0.52617
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 15.854314
+The min_value of output: -6.801257
+The mean_value of output: 0.192644
+The std_value of output: 8.544686
+ ============ top5: ===========
+106: 15.854314
+295: 11.684682
+341: 11.585629
+342: 10.629588
+343: 10.426522
+Run graph execution time: 1906.36169ms, FPS=0.52456
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 15.925432
+The min_value of output: -7.678911
+The mean_value of output: -0.731649
+The std_value of output: 5.918599
+ ============ top5: ===========
+471: 15.925432
+833: 11.717276
+460: 8.050163
+744: 7.813638
+657: 7.151278
+Run graph execution time: 1900.88025ms, FPS=0.52607
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 27.414291
+The min_value of output: -5.903892
+The mean_value of output: 0.804478
+The std_value of output: 6.618823
+ ============ top5: ===========
+324: 27.414291
+326: 14.228191
+879: 11.264628
+322: 10.913460
+325: 10.868497
+Run graph execution time: 1900.33289ms, FPS=0.52622
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 21.291918
+The min_value of output: -7.539162
+The mean_value of output: -0.464818
+The std_value of output: 5.603346
+ ============ top5: ===========
+924: 21.291918
+956: 9.898451
+965: 9.192705
+935: 8.965940
+435: 6.335453
+Run graph execution time: 1909.68860ms, FPS=0.52365
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 8.110525
+The min_value of output: -6.981545
+The mean_value of output: -0.633556
+The std_value of output: 5.621796
+ ============ top5: ===========
+441: 8.110525
+503: 7.904424
+505: 7.861989
+786: 7.790124
+512: 7.523634
+Run graph execution time: 1902.02332ms, FPS=0.52576
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 15.213322
+The min_value of output: -6.815362
+The mean_value of output: 0.247026
+The std_value of output: 4.646229
+ ============ top5: ===========
+751: 15.213322
+817: 11.993022
+479: 10.870945
+408: 7.186787
+802: 6.445262
+Run graph execution time: 1904.93066ms, FPS=0.52495
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 22.362324
+The min_value of output: -9.190092
+The mean_value of output: 0.308038
+The std_value of output: 6.480976
+ ============ top5: ===========
+ 90: 22.362324
+522: 7.505186
+ 95: 7.442211
+621: 7.319363
+ 89: 6.924692
+Run graph execution time: 1908.88538ms, FPS=0.52387
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 18.208405
+The min_value of output: -4.989242
+The mean_value of output: 1.575775
+The std_value of output: 4.854361
+ ============ top5: ===========
+734: 18.208405
+407: 14.122928
+654: 12.105623
+468: 9.938651
+656: 9.847844
+Run graph execution time: 1902.30774ms, FPS=0.52568
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 18.057888
+The min_value of output: -8.546534
+The mean_value of output: -0.385551
+The std_value of output: 7.725189
+ ============ top5: ===========
+567: 18.057888
+813: 13.891796
+467: 12.572895
+544: 11.841844
+909: 11.586216
+Run graph execution time: 1902.58069ms, FPS=0.52560
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 10.824672
+The min_value of output: -5.787045
+The mean_value of output: 0.127916
+The std_value of output: 5.138450
+ ============ top5: ===========
+762: 10.824672
+415: 7.247482
+884: 7.150811
+399: 7.082183
+579: 6.644436
+Run graph execution time: 1979.49194ms, FPS=0.50518
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 25.718115
+The min_value of output: -6.681616
+The mean_value of output: -0.191322
+The std_value of output: 6.953473
+ ============ top5: ===========
+707: 25.718115
+571: 9.445793
+480: 9.109517
+105: 8.325678
+664: 8.202339
+Run graph execution time: 1921.31152ms, FPS=0.52048
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 17.825024
+The min_value of output: -5.874443
+The mean_value of output: 0.475503
+The std_value of output: 4.437556
+ ============ top5: ===========
+394: 17.825024
+391: 12.582837
+389: 12.366687
+395: 11.467242
+  0: 10.255767
+Run graph execution time: 1902.78772ms, FPS=0.52554
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 9.163013
+The min_value of output: -6.185359
+The mean_value of output: -0.925950
+The std_value of output: 4.166553
+ ============ top5: ===========
+515: 9.163013
+652: 8.392804
+808: 6.221143
+457: 5.766758
+465: 5.298306
+Run graph execution time: 1900.22485ms, FPS=0.52625
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 8.218256
+The min_value of output: -6.307645
+The mean_value of output: -0.527397
+The std_value of output: 3.543047
+ ============ top5: ===========
+725: 8.218256
+899: 7.830068
+659: 6.993661
+505: 6.957845
+647: 5.931875
+Run graph execution time: 1903.23608ms, FPS=0.52542
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 16.411476
+The min_value of output: -5.851697
+The mean_value of output: -0.311750
+The std_value of output: 3.602794
+ ============ top5: ===========
+985: 16.411476
+309: 6.046568
+883: 5.421481
+308: 5.163247
+652: 4.961036
+Run graph execution time: 1903.44348ms, FPS=0.52536
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 8.497299
+The min_value of output: -6.806626
+The mean_value of output: -0.518656
+The std_value of output: 5.962530
+ ============ top5: ===========
+819: 8.497299
+982: 7.880057
+490: 7.646557
+433: 7.527360
+836: 7.102377
+Run graph execution time: 1978.42920ms, FPS=0.50545
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 17.523365
+The min_value of output: -6.130047
+The mean_value of output: -0.670298
+The std_value of output: 4.754871
+ ============ top5: ===========
+417: 17.523365
+755: 8.157425
+900: 7.217607
+862: 6.150247
+668: 5.518192
+Run graph execution time: 1898.65393ms, FPS=0.52669
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 14.651820
+The min_value of output: -5.981161
+The mean_value of output: 0.790545
+The std_value of output: 4.995747
+ ============ top5: ===========
+511: 14.651820
+408: 12.621628
+581: 11.557646
+717: 11.361196
+609: 11.156030
+Run graph execution time: 1907.39722ms, FPS=0.52427
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 11.848313
+The min_value of output: -6.981992
+The mean_value of output: -0.614736
+The std_value of output: 4.845444
+ ============ top5: ===========
+619: 11.848313
+846: 8.981575
+891: 8.420410
+741: 6.737161
+556: 6.037029
+Run graph execution time: 1907.70068ms, FPS=0.52419
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 7.394051
+The min_value of output: -8.236218
+The mean_value of output: -0.896949
+The std_value of output: 5.306046
+ ============ top5: ===========
+968: 7.394051
+572: 6.819205
+721: 6.796813
+966: 6.304090
+868: 6.155963
+Run graph execution time: 1930.04114ms, FPS=0.51812
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 16.253578
+The min_value of output: -8.985862
+The mean_value of output: 0.214063
+The std_value of output: 6.312616
+ ============ top5: ===========
+356: 16.253578
+287: 8.845489
+357: 8.645640
+263: 8.394848
+ 20: 8.172125
+Run graph execution time: 1903.23914ms, FPS=0.52542
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 15.309586
+The min_value of output: -4.740168
+The mean_value of output: 1.325380
+The std_value of output: 4.508050
+ ============ top5: ===========
+ 35: 15.309586
+ 37: 15.182537
+ 36: 13.348172
+192: 8.840949
+ 33: 8.211424
+Run graph execution time: 1905.18604ms, FPS=0.52488
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 11.640442
+The min_value of output: -5.682694
+The mean_value of output: 0.193656
+The std_value of output: 4.226654
+ ============ top5: ===========
+154: 11.640442
+153: 11.202858
+204: 9.508656
+155: 9.252247
+265: 8.813797
+Run graph execution time: 1984.60461ms, FPS=0.50388
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 15.592637
+The min_value of output: -6.475349
+The mean_value of output: -0.163457
+The std_value of output: 5.369419
+ ============ top5: ===========
+483: 15.592637
+873: 13.762489
+663: 12.992564
+497: 10.827365
+698: 10.687416
+Run graph execution time: 1912.05090ms, FPS=0.52300
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 14.697119
+The min_value of output: -7.282759
+The mean_value of output: 0.125653
+The std_value of output: 7.636904
+ ============ top5: ===========
+219: 14.697119
+201: 13.378051
+156: 11.073508
+155: 9.612021
+154: 9.511539
+Run graph execution time: 1897.04321ms, FPS=0.52714
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 10.236999
+The min_value of output: -6.501110
+The mean_value of output: -0.757821
+The std_value of output: 4.698448
+ ============ top5: ===========
+811: 10.236999
+545: 8.301329
+650: 7.485157
+754: 7.322730
+632: 7.273801
+Run graph execution time: 1906.64001ms, FPS=0.52448
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 13.450630
+The min_value of output: -8.825930
+The mean_value of output: -1.572926
+The std_value of output: 7.396623
+ ============ top5: ===========
+679: 13.450630
+845: 9.498819
+600: 8.610308
+623: 8.179420
+584: 7.948521
+Run graph execution time: 1902.94653ms, FPS=0.52550
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 16.698597
+The min_value of output: -8.758059
+The mean_value of output: 0.235340
+The std_value of output: 5.734411
+ ============ top5: ===========
+169: 16.698597
+160: 10.731266
+222: 10.425600
+176: 9.867482
+267: 9.750805
+Run graph execution time: 1906.34497ms, FPS=0.52456
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 10.984316
+The min_value of output: -6.386085
+The mean_value of output: -0.016293
+The std_value of output: 4.800114
+ ============ top5: ===========
+847: 10.984316
+634: 7.837191
+494: 7.524338
+491: 7.403879
+408: 7.049531
+Run graph execution time: 1910.83435ms, FPS=0.52333
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 15.225288
+The min_value of output: -5.913405
+The mean_value of output: -0.457586
+The std_value of output: 6.480783
+ ============ top5: ===========
+795: 15.225288
+796: 14.178116
+537: 14.111520
+802: 13.790155
+792: 10.089961
+Run graph execution time: 1913.47388ms, FPS=0.52261
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 11.500680
+The min_value of output: -10.024456
+The mean_value of output: -0.339171
+The std_value of output: 7.135254
+ ============ top5: ===========
+489: 11.500680
+289: 8.169278
+372: 7.649040
+373: 7.392988
+279: 7.386721
+Run graph execution time: 1904.48059ms, FPS=0.52508
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 13.513698
+The min_value of output: -6.107711
+The mean_value of output: 0.369970
+The std_value of output: 4.103288
+ ============ top5: ===========
+384: 13.513698
+383: 11.523725
+539: 7.891645
+264: 7.866717
+263: 7.231492
+Run graph execution time: 1899.43628ms, FPS=0.52647
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 9.493797
+The min_value of output: -7.071439
+The mean_value of output: 0.132299
+The std_value of output: 4.428308
+ ============ top5: ===========
+ 33: 9.493797
+  6: 7.615959
+688: 7.430923
+391: 7.263894
+815: 6.605701
+Run graph execution time: 1891.72888ms, FPS=0.52862
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 15.227817
+The min_value of output: -6.835876
+The mean_value of output: 0.116273
+The std_value of output: 5.622234
+ ============ top5: ===========
+397: 15.227817
+390: 10.755658
+  5: 10.433464
+329: 10.029744
+109: 8.955342
+Run graph execution time: 1898.83899ms, FPS=0.52664
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 14.785537
+The min_value of output: -7.548637
+The mean_value of output: 0.037717
+The std_value of output: 5.743536
+ ============ top5: ===========
+403: 14.785537
+628: 12.905396
+536: 12.439993
+510: 12.426853
+833: 8.401384
+Run graph execution time: 1931.68665ms, FPS=0.51768
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 19.653997
+The min_value of output: -5.377260
+The mean_value of output: 0.046748
+The std_value of output: 4.644824
+ ============ top5: ===========
+727: 19.653997
+538: 12.178637
+668: 10.005848
+755: 7.518801
+928: 6.862156
+Run graph execution time: 1905.45044ms, FPS=0.52481
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 12.134635
+The min_value of output: -4.485342
+The mean_value of output: 0.840873
+The std_value of output: 4.394247
+ ============ top5: ===========
+318: 12.134635
+319: 11.520473
+325: 9.079092
+971: 8.970217
+ 11: 7.903774
+Run graph execution time: 1898.76221ms, FPS=0.52666
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 14.401389
+The min_value of output: -10.700474
+The mean_value of output: 0.062241
+The std_value of output: 7.211645
+ ============ top5: ===========
+357: 14.401389
+336: 12.221786
+356: 12.105105
+358: 10.043221
+337: 9.930095
+Run graph execution time: 1902.43054ms, FPS=0.52564
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 19.963615
+The min_value of output: -8.241287
+The mean_value of output: 0.266529
+The std_value of output: 6.308748
+ ============ top5: ===========
+521: 19.963615
+909: 14.884834
+926: 10.143185
+469: 9.807060
+544: 9.561551
+Run graph execution time: 1967.09399ms, FPS=0.50836
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 12.419026
+The min_value of output: -7.079490
+The mean_value of output: -0.147302
+The std_value of output: 5.320852
+ ============ top5: ===========
+776: 12.419026
+819: 11.620064
+546: 11.532886
+420: 10.218886
+486: 10.053951
+Run graph execution time: 1900.03589ms, FPS=0.52631
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 9.514153
+The min_value of output: -7.970186
+The mean_value of output: -1.593114
+The std_value of output: 5.011801
+ ============ top5: ===========
+709: 9.514153
+893: 9.079485
+748: 8.617003
+636: 7.175406
+721: 6.732046
+Run graph execution time: 1959.77551ms, FPS=0.51026
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 19.059340
+The min_value of output: -5.801096
+The mean_value of output: 0.293778
+The std_value of output: 4.258020
+ ============ top5: ===========
+323: 19.059340
+326: 9.491364
+321: 8.146163
+892: 7.979516
+455: 7.595347
+Run graph execution time: 1914.65271ms, FPS=0.52229
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 10.935829
+The min_value of output: -7.608176
+The mean_value of output: 0.183220
+The std_value of output: 7.420561
+ ============ top5: ===========
+392: 10.935829
+126: 10.931785
+362: 9.885055
+770: 9.367031
+113: 9.345770
+Run graph execution time: 1887.69312ms, FPS=0.52975
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 13.454145
+The min_value of output: -8.842059
+The mean_value of output: -0.367635
+The std_value of output: 5.772025
+ ============ top5: ===========
+693: 13.454145
+814: 9.537382
+472: 9.531290
+460: 9.210196
+628: 8.947389
+Run graph execution time: 1906.21375ms, FPS=0.52460
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 11.880643
+The min_value of output: -5.130889
+The mean_value of output: 0.437302
+The std_value of output: 6.599532
+ ============ top5: ===========
+456: 11.880643
+602: 11.020795
+733: 9.961487
+819: 9.384030
+701: 9.372035
+Run graph execution time: 1898.19678ms, FPS=0.52682
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 8.500361
+The min_value of output: -6.745031
+The mean_value of output: -0.255021
+The std_value of output: 5.325987
+ ============ top5: ===========
+410: 8.500361
+738: 7.632134
+703: 7.310534
+756: 6.771623
+621: 6.121047
+Run graph execution time: 1904.95544ms, FPS=0.52495
+
+=== tensor info ===
+shape: 1 3 224 224 
+data pointer: 0x352800
+
+=== tensor info ===
+shape: 1 1000 
+data pointer: 0x3e5810
+The max_value of output: 16.091595
+The min_value of output: -4.445020
+The mean_value of output: 0.799098
+The std_value of output: 4.165015
+ ============ top5: ===========
+ 41: 16.091595
+ 46: 11.723659
+ 39: 10.521550
+ 42: 10.407530
+ 44: 9.630150

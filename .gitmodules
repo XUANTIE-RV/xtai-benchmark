@@ -1,0 +1,9 @@
+[submodule "3rdparty/csi-nn2-release"]
+	path = 3rdparty/csi-nn2-release
+	url = git@gitlab.alibaba-inc.com:hhb-tools/csi-nn2-release.git
+[submodule "3rdparty/runtime"]
+	path = 3rdparty/runtime
+	url = git@gitlab.alibaba-inc.com:hhb-tools/runtime.git
+[submodule "3rdparty/decode"]
+	path = 3rdparty/decode
+	url = git@gitlab.alibaba-inc.com:hhb-tools/decode.git

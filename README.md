@@ -1,39 +1,77 @@
-# xtai-benchmark
+# Benchmark for XuanTie CPU
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+Welcome to the XuanTie AI Benchmark Suite! This repository contains a comprehensive collection of benchmark tests specifically designed for RISC-V CPUs with RVV/RVM. Our goal is to provide developers, researchers, and enthusiasts with a suite of tools to evaluate the performance and efficiency of AI algorithms running on RISC-V architecture.
 
-#### 软件架构
-软件架构说明
+## Features
 
 
-#### 安装教程
+| Model        | Original Model                                                                                                            | License                                                       | quantization    | c907 | c908 |
+| :----------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- | ---- | ---- |
+| bert         | [url](https://github.com/google-research/bert)                                                                            | Apache-2.0 license                                            | float32         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float32_onnx_bert_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float32_onnx_bert_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float16_onnx_bert_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_bert_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_int8_asym_w_sym_onnx_bert_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_int8_asym_w_sym_onnx_bert_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_w_int8_onnx_bert_hhb.bm.tar.gz)   |
+| efficientnet | [url](https://github.com/rwightman/gen-efficientnet-pytorch#exporting)                                                    | Apache-2.0 license                                            | float32         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float32_onnx_efficientnet_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float32_onnx_efficientnet_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float16_onnx_efficientnet_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_efficientnet_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_int8_asym_w_sym_onnx_efficientnet_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_int8_asym_w_sym_onnx_efficientnet_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_w_int8_onnx_efficientnet_hhb.bm.tar.gz)   |
+| mobilenetv2  | [url](https://github.com/onnx/models/blob/main/Computer_Vision/mobilenetv2_050_Opset16_timm/mobilenetv2_050_Opset16.onnx) | Apache-2.0 license                                            | float32         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float32_onnx_mobilenetv2-12_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float32_onnx_mobilenetv2-12_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float16_onnx_mobilenetv2-12_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_mobilenetv2-12_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_int8_asym_w_sym_onnx_mobilenetv2-12_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_int8_asym_w_sym_onnx_mobilenetv2-12_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_w_int8_onnx_mobilenetv2-12_hhb.bm.tar.gz)   |
+| mobileVit    | [url](https://github.com/apple/ml-cvnets)                                                                                 | [apple](https://github.com/apple/ml-cvnets/blob/main/LICENSE) | float32         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float32_onnx_mobilenetVit_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float32_onnx_mobilenetVit_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float16_onnx_mobilenetVit_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_mobilenetVit_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_int8_asym_w_sym_onnx_mobilenetVit_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_int8_asym_w_sym_onnx_mobilenetVit_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_w_int8_onnx_mobilenetVit_hhb.bm.tar.gz)   |
+| resnet50     | [url](https://github.com/onnx/models/blob/main/Computer_Vision/resnest50d_Opset16_timm/resnest50d_Opset16.onnx)           | Apache-2.0 license                                            | float32         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float32_onnx_resnet50-v1-7_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float32_onnx_resnet50-v1-7_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float16_onnx_resnet50-v1-7_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_resnet50-v1-7_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_int8_asym_w_sym_onnx_resnet50-v1-7_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_int8_asym_w_sym_onnx_resnet50-v1-7_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_w_int8_onnx_resnet50-v1-7_hhb.bm.tar.gz)   |
+| retinaface   | [url](https://github.com/biubug6/Pytorch_Retinaface)                                                                      | MIT                                                           | float32         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float32_onnx_retinaface_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float32_onnx_retinaface_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float16_onnx_retinaface_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_retinaface_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_int8_asym_w_sym_onnx_retinaface_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_int8_asym_w_sym_onnx_retinaface_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_int8_asym_w_sym_onnx_retinaface_hhb.bm.tar.gz)   |
+| shufflenetv2 | [url](https://github.com/onnx/models/tree/main/Computer_Vision)                                                           | Apache-2.0 license                                            | float32         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float32_onnx_shufflenet-v2-9_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float32_onnx_shufflenet-v2-9_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float16_onnx_shufflenet-v2-9_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_shufflenet-v2-9_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym |      |      |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      |      |
+| swin         | [url](https://github.com/microsoft/Swin-Transformer)                                                                      | MIT                                                           | float32         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float32_onnx_swin_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float32_onnx_swin_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16         | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_float16_onnx_swin_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_swin_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/907_int8_asym_w_sym_onnx_swin_hhb.bm.tar.gz)   | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_int8_asym_w_sym_onnx_swin_hhb.bm.tar.gz)   |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      | [url](http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_w_int8_onnx_swin_hhb.bm.tar.gz)   |
+| yolov5n      | [url](https://github.com/ultralytics/yolov5)                                                                              | AGPL-3.0                                                      | float32         |   ✓ | ✓   |
+|              |                                                                                                                           |                                                               | float16         | ✓   | ✓   |
+|              |                                                                                                                           |                                                               | int8_asym_w_sym | ✓   | ✓   |
+|              |                                                                                                                           |                                                               | float16_w_int8  |      | ✓   |
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Getting Started
 
-#### 使用说明
+### Requirements
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- riscv gcc: https://www.xrvm.cn/community/download?id=4333581795569242112
+- qemu(not necessary): https://www.xrvm.cn/community/download?id=4300747789186437120
 
-#### 参与贡献
+### Clone codes
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+```Shell
+git clone git@gitlab.alibaba-inc.com:hhb-tools/xtai-benchmark.git
+git submodule init
+git submodule update
+```
 
+### Evaluations
 
-#### 特技
+Take `c908/float16/onnx_mobilenetv2-12` as an example
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+```Shell
+cd c908/float16/onnx_mobilenetv2-12
+make -f makefile.c908 hhb_runtime
+
+# download binary file for model(click the url in the above table or wget)
+wget http://yocbook.oss-cn-hangzhou.aliyuncs.com/linux_image/XuanTie_V1.0.5/xtai-benchmark-bm/908_float16_onnx_mobilenetv2-12_hhb.bm.tar.gz
+tar -zxvf 908_float16_onnx_mobilenetv2-12_hhb.bm.tar.gz
+mv 908_float16_onnx_mobilenetv2-12_hhb.bm hhb.bm
+
+# run with qemu
+make -f makefile.c908 run_sim
+```
