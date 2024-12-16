@@ -54,7 +54,10 @@ Welcome to the XuanTie AI Benchmark Suite! This repository contains a comprehens
 ### Clone codes
 
 ```Shell
-git clone git@gitlab.alibaba-inc.com:hhb-tools/xtai-benchmark.git
+# 1. download codes
+git clone repo_url
+# 2. prepare submodules
+cd REPO_DIR
 git submodule init
 git submodule update
 ```
